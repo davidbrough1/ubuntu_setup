@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[branch "MKStime"]
+[remote "origin"]
+	url = git@github.com:openmaterials/pymks.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
