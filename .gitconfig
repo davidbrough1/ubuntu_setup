@@ -1,0 +1,33 @@
+[user]
+	name = David Brough
+	email = david.brough.0416@gmail.com
+[color]
+        diff = auto
+        status = auto
+        branch = auto
+[color "status"]
+        untracked = cyan
+        changed = green
+[core]
+        editor = emacs
+        excludesfile = ~/.gitignore
+[merge]
+        tool = meld
+[alias]
+        co = checkout
+        br = branch
+        ci = commit
+        st = status
+        unstage = reset HEAD --
+        last = log -1 HEAD
+        lg = log --oneline -10 --abbrev=12 --format=\"%C(yellow)%h %Creset%s\"
+[remote-hg]
+        hg-git-compat = false
+[mergetool "emerge"]
+        path = ~/bin/emerge-for-gitxo
+[difftool]
+        prompt = false
+[mergetool]
+        prompt = false
+[commit]
+        template=~/git/env/commit-template
