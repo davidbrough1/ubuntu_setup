@@ -9,7 +9,7 @@
         untracked = cyan
         changed = green
 [core]
-        editor = emacs
+        editor = subl -w
         excludesfile = ~/.gitignore
 [merge]
         tool = meld

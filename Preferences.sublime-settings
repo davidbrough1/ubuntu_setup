@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
+	"font_size": 12,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		72
+	],
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"translate_tabs_to_spaces": true
+}

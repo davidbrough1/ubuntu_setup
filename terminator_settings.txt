@@ -1,0 +1,7 @@
+Transparency 0.8
+Terminal Back Ground Color #000B33
+Text Color #FFFFFF
+Focus Terminal Color #FF8225
+Focus Terminal Text #000000
+Inactive Terminal Color #000000
+Inactive Terminal Text #FFFFFF

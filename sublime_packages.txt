@@ -1,0 +1,16 @@
+Sublime Packages
+
+Gitgutter
+SideBarEnhancements
+Anaconda
+Djaneiro
+Theme - Flatland
+Theme - Soda
+SublimeLinter - Setup Paths
+SublimeLinter-pyflakes
+SublimeLinter-pep8
+SublimeLinter-jshint
+SublimeLinter-pyyaml (Python 3.0)
+SublimeLinter-csslint
+SublimeLinter-html-tidy
+SublimeLinter-json
