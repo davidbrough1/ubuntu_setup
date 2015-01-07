@@ -9,3 +9,4 @@ Documentation to setup my environment.
     cp Preferences.sublime-settings Python.sublime-settings ~/.config/sublime-text-3/Packages/Users
 5. Create env directory in the git directory and copy commit-template to env
     cp commit-template ~/git/env/
+6. Install spell checker for ipython notebook https://github.com/damianavila/mIPyex
