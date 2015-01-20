@@ -5,3 +5,4 @@ Focus Terminal Color #FF8225
 Focus Terminal Text #000000
 Inactive Terminal Color #000000
 Inactive Terminal Text #FFFFFF
+font Monospace 13
