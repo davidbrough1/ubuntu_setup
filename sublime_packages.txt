@@ -7,7 +7,10 @@ Djaneiro
 Theme - Flatland
 Theme - Soda
 WordCount
-SublimeLinter - Setup Paths
+SublimeLinter
+Cython
+
+The following packages need to their paths set to work
 SublimeLinter-pyflakes
 SublimeLinter-pep8
 SublimeLinter-jshint
