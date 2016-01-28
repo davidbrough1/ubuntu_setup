@@ -31,3 +31,5 @@
         prompt = false
 [commit]
         template=~/git/env/commit-template
+[mergetool "nbmerge"]
+	cmd = =

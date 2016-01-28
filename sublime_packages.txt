@@ -9,6 +9,9 @@ Theme - Soda
 WordCount
 SublimeLinter
 Cython
+Cimproved
+C++StartingKit
+ClangFormat
 
 The following packages need to their paths set to work
 SublimeLinter-pyflakes
@@ -18,3 +21,4 @@ SublimeLinter-pyyaml (Python 3.0)
 SublimeLinter-csslint
 SublimeLinter-html-tidy
 SublimeLinter-json
+SublimeLinter-cppcheck
